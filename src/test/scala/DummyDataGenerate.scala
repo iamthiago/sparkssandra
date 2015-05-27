@@ -2,7 +2,6 @@ import java.util.UUID
 
 import com.datastax.driver.core.utils.UUIDs
 import com.datastax.spark.connector._
-import faker._
 import org.apache.spark.{SparkConf, SparkContext}
 
 import scala.collection.mutable.ListBuffer
